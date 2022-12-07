@@ -1,0 +1,3 @@
+﻿  Character.cpp
+C:\c Projects\Source\Image_Campus_TP_Final\Image_Campus_TP_Final\Character.cpp(61,10): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Image_Campus_TP_Final.vcxproj -> C:\c Projects\Source\Image_Campus_TP_Final\x64\Debug\Image_Campus_TP_Final.exe
